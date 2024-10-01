@@ -16,7 +16,6 @@ I am a Cloud Network Engineer, an expert in Routing and Switching, with hands-on
 ![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![CI/CD-Azure DevOps](https://img.shields.io/badge/CI/CD-Azure%20DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
 ![CI/CD-GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![Code-PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Metric_Dashboard-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
@@ -29,4 +28,4 @@ I am a Cloud Network Engineer, an expert in Routing and Switching, with hands-on
 ![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ## 🤝 Let's connect
-[![LinkedIn](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/elinathan-reggie/)
+<a href="https://www.linkedin.com/in/elinathan-reggie/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
