@@ -19,7 +19,6 @@ I am a Cloud Network Engineer, an expert in Routing and Switching, with hands-on
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Networking-informational?style=flat&logo=internet-information&logoColor=white&color=4CAF50)
 ![](https://img.shields.io/badge/CCNP-informational?style=flat&logo=cisco&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Distro-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=e9b34f)  
 
 ## 🤝 Let's connect
