@@ -16,7 +16,6 @@ I am a Cloud Network Engineer, an expert in Routing and Switching, with hands-on
 ![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![CI/CD-Azure DevOps](https://img.shields.io/badge/CI/CD-Azure%20DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=2bbc8a)
 ![Code-PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Metric_Dashboard-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Distro-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=e9b34f)  
