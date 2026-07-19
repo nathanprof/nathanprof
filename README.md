@@ -3,7 +3,7 @@
 # I am Elinathan Olotu
 I am a Cloud Network Engineer, an expert in Routing and Switching, with hands-on experience in Cloud Engineering and Infrastructure Automation
 - 🔭 I’m working on Cloud Engineering, advanced networking, network automation, network support, technical writing, and DevOps projects.
-- 👯 I’m looking to collaborate on all things Networking and Cloud Engineering including troubleshooting.
+- 👯 I’m looking to collaborate on all things Networking and Cloud Engineering.
 - 💬 anything related to networking on the major cloud service providers, such as Microsoft Azure, Amazon AWS Google GCP.
 - ⚡ Fun fact: Asides Networking i love watching soccer and doing research.
 ## 🔧Technologies and Tools
